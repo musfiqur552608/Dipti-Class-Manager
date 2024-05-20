@@ -1,6 +1,6 @@
 package org.freedu.dipticlassmanager.models
 
-data class Class(
+data class Classes(
     val classId: String,
     val name: String,
     val teacherId: String,
