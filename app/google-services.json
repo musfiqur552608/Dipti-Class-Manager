@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "205850033375",
+    "project_id": "dipti-class-manager",
+    "storage_bucket": "dipti-class-manager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205850033375:android:5d114514ffe08667ad3d6a",
+        "android_client_info": {
+          "package_name": "org.freedu.dipticlassmanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnnbWRiyuIDtyxro_FTckWaRuhD12ewcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
